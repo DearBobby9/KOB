@@ -1,1 +1,2 @@
-####一个伟大的工程####
+# KOB
+a game using bot to win
