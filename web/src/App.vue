@@ -37,5 +37,9 @@ export default {
 
 
 <style>
+body {
+  background-image: url("@/assets/bgpic.png");
+  background-size: cover;
+}
 
 </style>
