@@ -1,6 +1,7 @@
 <template>
-    <div class = "playground"></div>
+    <div class = "playground">
         <GameMap></GameMap>
+    </div>
 </template>
 
 <script>
@@ -18,6 +19,7 @@ div.playground {
     width: 60vw;
     height: 48vw;
     margin:40px auto;
+    background: lightblue;
 }
 
-</style> //from 01:13:10
+</style>
